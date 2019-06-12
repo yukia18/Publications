@@ -8,6 +8,13 @@ HAIシンポジウム2018
 
 http://hai-conference.net/symp2018/proceedings/pdf/P-15.pdf
 ```
+```
+阿部 佑樹,妹尾 卓磨, 松森 匠哉, 今井 倫太
+"画像キャプションに対する表現学習に向けた敵対的生成ネットワーク"
+第33回人工知能学会全国大会,2019
+
+https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_3Rin230/_pdf/-char/ja
+```
 ## Others
 ```
 Shoya Matsumori, Yuki Abe, Masahiko Osawa, Michita Imai
